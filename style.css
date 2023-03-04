@@ -1,0 +1,29 @@
+#main {
+    text-align: center;}
+
+body {
+    
+    background-image: linear-gradient(pink, lightskyblue);
+    height: 620px;
+}
+
+button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 200px;
+    font-weight: bold;
+    border-radius: 5px;
+    color: white;
+    text-transform: uppercase;
+    }
+
+
+#increment-btn {
+    background: darkred;
+}
+
+#save-btn {
+   
+   margin: 50px auto;
+    background-color: rgb(255, 140, 0);
+}
